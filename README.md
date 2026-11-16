@@ -25,13 +25,6 @@ I like building things in a weekend that feel like products: agent marketplaces,
 | **Mar 2026** | 🔍 [**FadeThat**](https://github.com/vedantshirvi/FadeThat) · [live](https://fadethat.vercel.app) | Paste any article and every claim is ranked by how wrong it is, in under 10 seconds | LLM claim extraction · Vercel |
 | **Apr 2025** | 🧭 **Pathfinder** | Penn State competition project | 🏆 **4th place** |
 
-## 🧪 Other builds
-
-- 🫁 [**PneumoScan AI**](https://github.com/vedantshirvi/pneumonia-detector): chest X-ray pneumonia detection with a ResNet-34 (FastAI + Streamlit), trained on 5,216 images
-- 🏦 [**Bank Account System**](https://github.com/vedantshirvi/Bank-Account-System): bank account systems and algorithmic utilities in Python
-- 🎨 [**CanvaCade**](https://github.com/vedantshirvi/CanvaCade): a canvas copilot experiment
-- 🗂️ Social network backend (Python) and a course scheduler app (Java + SQL)
-
 <div align="center"><img src="assets/divider.svg" width="100%"/></div>
 
 ## 🧰 Toolbox
