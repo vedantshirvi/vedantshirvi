@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="vedant@psu ~ % ./launch: Vedant Shirvi, Penn State, builds AI agents, fintech and ML at hackathons" width="100%"/>
+<img src="assets/banner.svg" alt="Dot-art sunset at the beach: hi, I'm Vedant" width="100%"/>
 
 # Hey, I'm Vedant 👋
 
